@@ -3,6 +3,6 @@
 #### 目录
 
 ```bash
-|- app              小程序
+|- applet              应用包代码
 |- server           服务器
 |- README.md
