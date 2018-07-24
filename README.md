@@ -4,5 +4,5 @@
 
 ```bash
 |- applet              应用包代码
-|- server           服务器
+|- server              后台代码
 |- README.md
